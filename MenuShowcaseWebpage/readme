@@ -1,0 +1,21 @@
+# Restaurant Menu Showcase Webpage
+
+Welcome to the Unique Restaurant Webpage! This webpage showcases various delicious recipes with mouth-watering images. Explore the culinary delights below:
+
+## Table of Contents
+
+1. [Biryani](#biryani)
+2. [Pizza](#pizza)
+3. [Bourbon Chicken](#bob_chick)
+4. [BBQ](#bbq)
+5. [Shami Kebab](#shami_kebab)
+6. [Mutton Karahi](#mutton_kerahi)
+7. [Seekh Kebab](#seekh_kebab)
+8. [Gulab Jamun](#gulab_jamun)
+9. [Chocolate Cake](#chocolate_cake)
+10. [Naan Khatai](#naan_khatai)
+
+## Webpage Structure
+
+- Each recipe is represented with an image, heading, and detailed description.
+- The page is designed to be responsive, adapting to various screen sizes.
